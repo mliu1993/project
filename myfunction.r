@@ -5,3 +5,10 @@ bar<- "this"
 baz <- bar + foo
 
 #adding more 
+
+foo <- "2"
+bar <- "4"
+
+baz <- foo + bar
+
+12345
