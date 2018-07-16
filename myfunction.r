@@ -2,4 +2,4 @@
 foo<- "that"
 bar<- "this"
 
-bar + foo
+baz <- bar + foo
