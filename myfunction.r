@@ -1,4 +1,5 @@
 # this is a new file
-foo<- 42
+foo<- "that"
+bar<- "this"
 
-newvar<-37
+baz <- bar + foo
