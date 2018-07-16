@@ -1,2 +1,5 @@
 # this is a new file
-foo<- 1
+foo<- "that"
+bar<- "this"
+
+bar + foo
