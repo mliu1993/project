@@ -16,11 +16,11 @@ This is an unordered list:
   --subpoint1
   --subpoint2
 
-[a link] (https://p) to blabla
+[a link](https://p) to blabla
 
 use the 'cd' command
 
-'''R
+```R
 foo <-function(arg1, arg2) {<stuff>
 }
-'''
+```
